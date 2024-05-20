@@ -1,4 +1,6 @@
 # Olá, Mundo!
  Primeiro repositório versionado do curso de Git e GitHub
 
- Repositório criado durante uma aula GRAVADA do Curso em Vídeo
+ Repositório criado durante uma aula GRAVADA do Curso em Vídeo.
+
+ Adicionei esta linha direto no GitHub, usando o editor online.
